@@ -110,3 +110,13 @@ The imports at the top include `import java.util.List;`. Both `java.awt` and `ja
 - No other downloads needed
 
 Run with `java PokemonCardDuel.java`, or compile first with `javac PokemonCardDuel.java` and then run `java PokemonCardDuel`.
+
+### Alternative: run in the browser
+
+If you don't have Java installed, you can run the game directly in a browser via Gitpod:
+
+```
+https://gitpod.io/#https://github.com/cse-asma/PokemonCardDuel
+```
+
+Gitpod provides a browser-based environment with Java pre-installed. The game starts automatically when the workspace loads. A free Gitpod account (sign up with GitHub) is required.

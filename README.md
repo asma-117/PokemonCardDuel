@@ -46,6 +46,16 @@ javac PokemonCardDuel.java
 java PokemonCardDuel
 ```
 
+### Run in the browser (no install needed)
+
+If you don't have Java installed, open this link:
+
+```
+https://gitpod.io/#https://github.com/cse-asma/PokemonCardDuel
+```
+
+Gitpod will open a browser-based environment with Java pre-installed and start the game automatically. You will need a free Gitpod account (sign up with GitHub).
+
 ## Quick guide
 
 1. Click **BEGIN** and pick 3 Pokémon.
